@@ -1,0 +1,2 @@
+cd そのフォルダ
+sh import_image_xcodeassets.sh
